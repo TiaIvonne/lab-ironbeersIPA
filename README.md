@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In this lab you will create a web app where the user will be able to see a list of beers or check one randomly. For the exercise, we will work with the [PunkAPI](https://www.npmjs.com/package/punkapi-javascript-wrapper) database, through it's NPM Package. The package has some methods that retrieve beers with some info about them and fits perfect for our example.
+In this lab you will create a web app where the user will be able to see a list of beers or check one randomly. For the exercise, we will work with the [PunkAPI](https://www.npmjs.com/package/punkapi-javascript-wrapper) database, through it's NPM Package. The package has some methods that retrieve beers with some info about them and fits perfect for our example...
 
 ## Requirements
 
